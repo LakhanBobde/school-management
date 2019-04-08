@@ -1,7 +1,7 @@
-<?php 
-$url = 'https://omo24x7.github.io/cdn/s5admin';
+<!DOCTYPE html>
+<html lang="en">
+<?php include 'inc/header.php'; ?>
 
-include 'inc/header.php'; ?>
 <body>
   <div class="container-scroller">
     <!-- partial:partials/_navbar.php -->
@@ -285,4 +285,6 @@ include 'inc/header.php'; ?>
 
   <?php include 'inc/js.php'; ?>
 
+  </body>
 
+</html>

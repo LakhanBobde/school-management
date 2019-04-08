@@ -17,6 +17,4 @@
   <script src="<?php echo $url ?>/js/settings.js"></script>
   <!-- End custom js for this page-->
 
-  </body>
-
-</html>
+  

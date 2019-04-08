@@ -1,5 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php 
+$url = 'https://omo24x7.github.io/cdn/s5admin';
+?>
 <head>
   <!-- Required meta tags -->
   <meta charset="utf-8">

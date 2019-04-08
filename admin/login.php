@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 <?php include 'inc/header.php'; ?>
 <body>
   <div class="container-scroller">
@@ -42,3 +44,6 @@
   <!-- container-scroller -->
   <!-- plugins:js -->
   <?php include 'inc/js.php'; ?>
+  </body>
+
+</html>
