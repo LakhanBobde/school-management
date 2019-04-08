@@ -220,7 +220,7 @@
 									<div class="preview-list">
 										<div class="preview-item border-bottom px-0">
 											<div class="preview-thumbnail">
-												<img src="../images/faces/face6.jpg" alt="image" class="rounded-circle"/>
+												<img src="<?php echo $url ?>/images/faces/face6.jpg" alt="image" class="rounded-circle"/>
 											</div>
 											<div class="preview-item-content d-flex flex-grow">
 												<div class="flex-grow">
@@ -250,7 +250,7 @@
 										</div>
 										<div class="preview-item border-bottom px-0">
 											<div class="preview-thumbnail">
-												<img src="../images/faces/face9.jpg" alt="image" class="rounded-circle"/>
+												<img src="<?php echo $url ?>/images/faces/face9.jpg" alt="image" class="rounded-circle"/>
 											</div>
 											<div class="preview-item-content d-flex flex-grow">
 												<div class="flex-grow">
@@ -265,7 +265,7 @@
 										</div>
 										<div class="preview-item border-bottom px-0">
 											<div class="preview-thumbnail">
-												<img src="../images/faces/face11.jpg" alt="image" class="rounded-circle"/>
+												<img src="<?php echo $url ?>/images/faces/face11.jpg" alt="image" class="rounded-circle"/>
 											</div>
 											<div class="preview-item-content d-flex flex-grow">
 												<div class="flex-grow">
