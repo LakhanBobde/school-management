@@ -4,13 +4,13 @@
               <span class="nav-link">GENERAL</span>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="index.html">
+              <a class="nav-link" href="index.php">
                 <span class="menu-title">Dashboard</span>
                 <i class="icon-speedometer menu-icon"></i>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="pages/widgets.html">
+              <a class="nav-link" href="ajax/widgets.php">
                 <span class="menu-title">Widgets</span>
                 <i class="icon-wrench menu-icon"></i>
               </a>

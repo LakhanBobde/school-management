@@ -24,7 +24,7 @@
                       <i class="mdi mdi-eye"></i>
                     </div>
                     <div class="mt-5">
-                      <a class="btn btn-block btn-warning btn-lg font-weight-medium" href="https://omo24x7.github.io/cdn/s5admin/index.html">Login</a>
+                      <a class="btn btn-block btn-warning btn-lg font-weight-medium" href="<?php echo $url ?>/index.php">Login</a>
                     </div>
                     <div class="mt-3 text-center">
                       <a href="#" class="auth-link text-white">Forgot password?</a>
