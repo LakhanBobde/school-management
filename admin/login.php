@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
  
-<?php include 'header.php'; ?>
+<?php include 'inc/header.php'; ?>
 
 <body>
   <div class="container-scroller">
@@ -45,7 +45,7 @@
   </div>
   <!-- container-scroller -->
   <!-- plugins:js -->
-  <?php include 'js.php'; ?>
+  <?php include 'inc/js.php'; ?>
 </body>
 
 </html>

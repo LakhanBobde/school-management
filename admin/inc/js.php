@@ -14,4 +14,5 @@
   <!-- endinject -->
   <!-- Custom js for this page-->
   <script src="https://omo24x7.github.io/cdn/s5admin/js/dashboard.js"></script>
+  <script src="https://omo24x7.github.io/cdn/s5admin/js/settings.js"></script>
   <!-- End custom js for this page-->
