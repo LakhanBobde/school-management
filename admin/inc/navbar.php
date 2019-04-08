@@ -1,7 +1,7 @@
 <nav class="navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
       <div class="text-center navbar-brand-wrapper">
-        <a class="navbar-brand brand-logo" href="index.html"><img src="https://omo24x7.github.io/cdn/s5admin/images/logo.svg" alt="logo"></a>
-        <a class="navbar-brand brand-logo-mini" href="index.html"><img src="https://omo24x7.github.io/cdn/s5admin/images/logo_mini.svg" alt="logo"></a>
+        <a class="navbar-brand brand-logo" href="index.html"><img src="<?php echo $url ?>/images/logo.svg" alt="logo"></a>
+        <a class="navbar-brand brand-logo-mini" href="index.html"><img src="<?php echo $url ?>/images/logo_mini.svg" alt="logo"></a>
       </div>
       <div class="navbar-menu-wrapper d-flex align-items-center">
         <p class="page-name d-none d-lg-block">Hi, Dave Mattew</p>
@@ -22,7 +22,7 @@
             <div class="dropdown-menu navbar-dropdown mail-notification dropdownAnimation" aria-labelledby="MailDropdown">
               <a class="dropdown-item" href="#">
                 <div class="sender-img">
-                  <img src="https://omo24x7.github.io/cdn/s5admin/images/faces/face6.jpg" alt="">
+                  <img src="<?php echo $url ?>/images/faces/face6.jpg" alt="">
                   <span class="badge badge-success">&nbsp;</span>
                 </div>
                 <div class="sender">
@@ -32,7 +32,7 @@
               </a>
               <a class="dropdown-item" href="#">
                 <div class="sender-img">
-                  <img src="https://omo24x7.github.io/cdn/s5admin/images/faces/face2.jpg" alt="">
+                  <img src="<?php echo $url ?>/images/faces/face2.jpg" alt="">
                   <span class="badge badge-success">&nbsp;</span>
                 </div>
                 <div class="sender">
@@ -42,7 +42,7 @@
               </a>
               <a class="dropdown-item" href="#">
                 <div class="sender-img">
-                  <img src="https://omo24x7.github.io/cdn/s5admin/images/faces/face3.jpg" alt="">
+                  <img src="<?php echo $url ?>/images/faces/face3.jpg" alt="">
                   <span class="badge badge-primary">&nbsp;</span>
                 </div>
                 <div class="sender">
@@ -52,7 +52,7 @@
               </a>
               <a class="dropdown-item" href="#">
                 <div class="sender-img">
-                  <img src="https://omo24x7.github.io/cdn/s5admin/images/faces/face4.jpg" alt="">
+                  <img src="<?php echo $url?>/images/faces/face4.jpg" alt="">
                   <span class="badge badge-warning">&nbsp;</span>
                 </div>
                 <div class="sender">
@@ -117,7 +117,7 @@
           </li>
           <li class="nav-item d-none d-sm-block profile-img">
             <a class="nav-link profile-image" href="#">
-              <img src="https://omo24x7.github.io/cdn/s5admin/images/faces/face4.jpg" alt="profile-img">
+              <img src="<?php echo $url ?>/images/faces/face4.jpg" alt="profile-img">
               <span class="online-status online bg-success"></span>
             </a>
           </li>

@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
- 
 <?php include 'inc/header.php'; ?>
-
 <body>
   <div class="container-scroller">
     <div class="container-fluid page-body-wrapper">
@@ -46,6 +42,3 @@
   <!-- container-scroller -->
   <!-- plugins:js -->
   <?php include 'inc/js.php'; ?>
-</body>
-
-</html>
