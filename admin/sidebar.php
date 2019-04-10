@@ -31,13 +31,13 @@
               </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="pages/tables/basic-table.html">
+              <a class="nav-link" href="ajax/tables.php">
                 <span class="menu-title">Tables</span>
                 <i class="icon-grid menu-icon"></i>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="pages/icons/font-awesome.html">
+              <a class="nav-link" href="ajax/icons.php">
                 <span class="menu-title">Icons</span>
                 <i class="icon-globe menu-icon"></i>
               </a>
